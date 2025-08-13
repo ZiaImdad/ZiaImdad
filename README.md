@@ -1,4 +1,4 @@
-<img src="images/svg/header.svg"></img>
+<img src="header.jpeg" alt="Header" />
 
 # 🌟 About Me:
 
