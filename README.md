@@ -71,9 +71,7 @@
 <p align="center">
     <img height="50%" width="70%" src="https://github-readme-stats.vercel.app/api?username=ziaimdad&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/><br/>
 </p>
-<p align="center">
-    <img height="50%" width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ziaimdad&theme=tokyonight&hide_border=false"/><br/>
-</p>
+
 <p align="center">
   <img height="20%" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziaimdad&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
