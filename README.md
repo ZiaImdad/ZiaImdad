@@ -86,5 +86,3 @@
 ![](https://github-profile-trophy.vercel.app/?username=ziaimdad&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
 ---
-
-[![Profile Visits](https://visitcount.itsvg.in/api?id=ziaimdad&icon=6&color=1)](https://visitcount.itsvg.in)
