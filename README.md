@@ -1,4 +1,4 @@
-<img src="Zia.svg" alt="Header" />
+<img src="headers.gif" alt="Header" />
 
 # 🚀 About Me:
 
