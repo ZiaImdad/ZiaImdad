@@ -1,4 +1,4 @@
-<img src="headers.gif" alt="Header" />
+<img src="header.jpeg" alt="Header" />
 
 # 🚀 About Me:
 
